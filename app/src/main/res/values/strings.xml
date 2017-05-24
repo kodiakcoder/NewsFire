@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NewsFire</string>
+    <string name="title_activity_news_feed">NewsFeed</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_test">Test</string>
+
+</resources>
